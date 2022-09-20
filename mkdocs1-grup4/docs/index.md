@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# PAGINA INICIAL INSTITUTO PEDRALBES
+## Bienvenido a la página oficial del Instituto Pedralbes 
+El​ Instituto Pedralbes es un centro público catalán en el cual se imparten estudios de ESO,
+Bachillerato(científico-tecnológico,humanístico-social y de artes escénicas) y Ciclos Formativos
+de Informática.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Profesores:
+- Alvaro Perez, M02 [Base de datos](https://campus.institutpedralbes.cat/enrol/index.php?id=181)
+- Ermengol Bota, M01 [Sistemas informaticos](https://campus.institutpedralbes.cat/enrol/index.php?id=2110)
+- Toni Díaz, M03 [Programación](https://campus.institutpedralbes.cat/enrol/index.php?id=17)

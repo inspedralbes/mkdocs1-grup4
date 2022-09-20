@@ -5,6 +5,6 @@ Bachillerato(científico-tecnológico,humanístico-social y de artes escénicas)
 de Informática.
 
 Profesores:
-- Alvaro Perez, M02 [Base de datos](https://campus.institutpedralbes.cat/enrol/index.php?id=181)
-- Ermengol Bota, M01 [Sistemas informaticos](https://campus.institutpedralbes.cat/enrol/index.php?id=2110)
-- Toni Díaz, M03 [Programación](https://campus.institutpedralbes.cat/enrol/index.php?id=17)
+- Álvaro Pérez, M05 [Base de datos](https://github.com/inspedralbes/mkdocs1-grup4/blob/8ccbc758cc5b11d47b8520a24b3905b6e7f28a92/mkdocs1-grup4/docs/m05.md)
+- Ermengol Bota, M04 [Sistemas informaticos](https://github.com/inspedralbes/mkdocs1-grup4/blob/8ccbc758cc5b11d47b8520a24b3905b6e7f28a92/mkdocs1-grup4/docs/m04.md)
+- Toni Díaz, M03 [Programación](https://github.com/inspedralbes/mkdocs1-grup4/blob/8ccbc758cc5b11d47b8520a24b3905b6e7f28a92/mkdocs1-grup4/docs/m03.md)
